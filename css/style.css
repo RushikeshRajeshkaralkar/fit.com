@@ -1,0 +1,137 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: "Lato", sans-serif;
+    background-color: #91b3fa;
+}
+
+.header {
+    background-color: #91b3fa !important;
+}
+
+.navbar {
+    background-color: #91b3fa !important;
+    padding: 0px 10px;
+}
+
+.navbar {
+    padding: 0px 10px !important;
+}
+
+.navbar-nav {
+    margin: 10px 0px 0px 40px !important;
+}
+
+.nav-item a {
+    font-weight: 600;
+    padding: 0px 20px !important;
+    color: white !important;
+}
+
+.active {
+    margin: 0;
+    height: auto;
+    background-color: #f98a84 !important;
+}
+
+.nav-item {
+    padding: 10px !important;
+}
+
+.subscribe-plan {
+    margin-right: 220px;
+    font-weight: 600;
+}
+
+.btn-subscribe {
+    border-radius: 20px !important;
+    background-color: #91b3fa !important;
+    border-width: 2px !important;
+    font-weight: 600;
+    color: white;
+    margin-right: 90px !important;
+}
+
+.collapse {
+    align-content: center !important;
+}
+
+
+/* title section */
+
+.title-section {
+    width: auto;
+    background-color: #91b3fa;
+}
+
+.main-content {
+    padding: 70px 0px 0px 0px;
+    font-size: 30px;
+    font-weight: 600;
+    color: white;
+}
+
+.stepUpText {
+    color: #f98a84;
+}
+
+.btn-contact {
+    width: 150px;
+    height: 40px;
+    background-color: #91b3fa;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    color: white;
+    font-weight: 600;
+    border-radius: 20px;
+}
+
+.daily-challange {
+    padding: 20px 0px 0px 0px;
+    font-size: 25px;
+    font-weight: 600;
+    color: white;
+}
+
+.img1,
+.img2,
+.img3 {
+    background-color: #f6f6f6;
+}
+
+.challnges {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    align-content: center;
+    background-color: #f6f6f6;
+    border-radius: 100%;
+    margin: 10px;
+    padding-top: 20px;
+}
+
+.challange-bottom-line {
+    width: 350px;
+    border-width: 5px;
+    border-color: white;
+    border-radius: 20px;
+    border: 0px 0px 0px solid;
+}
+
+.social-icons {
+    margin-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+
+.main-content-img {
+    text-align: center;
+}
+
+.main-Heading-img {
+    position: relative;
+    top: 20px;
+    padding: 40px 0px 0px 0px;
+}
